@@ -43,7 +43,7 @@ Otherwise, you may follow these installation instructions:
      
          > gap  
          --- some GAP info here ---  
-         gap> RequirePackage("yags");  
+         gap> RequirePackage("yags"); or LoadPackage("yags");
          Loading  YAGS - Yet Another Graph System 0.0.5.  
          Copyright (C) 2019 by the YAGS authors; for details type: ?yags:authors  
          This is free software under GPLv3; for details type: ?yags:copyright  
